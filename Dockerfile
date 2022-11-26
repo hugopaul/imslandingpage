@@ -7,4 +7,4 @@ EXPOSE 90
 
 ##docker run -d -p 80:80 --name ponto-eletronico-angular  hugopaul/ponto-eletronico-angular
 ##docker build -t=hugopaul/ponto-eletronico-angular .
-##docker push  hugopaul/ponto-eletronico-angular git init
+##docker push  hugopaul/ponto-eletronico-angular
